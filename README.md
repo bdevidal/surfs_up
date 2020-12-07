@@ -5,12 +5,16 @@ We have been asked by our investor client Mr. W. Avy to provide two additional m
 
 ## Results
 Oahu - June:
+
 ![Image](june_stats.png)
+
 ![Image](june_freq.png)
 
 
 Oahu - December
+
 ![Image](dec_stats.png)
+
 ![Image](dec_freq.png)
 
 * Based on our available dataset of six years (2010 - 2016), the two months have remarkably similar temps for being in two opposite "seasons". 
